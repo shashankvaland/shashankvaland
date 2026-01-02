@@ -1,30 +1,40 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Shashank Valand
-========================================================================================================================================
+# 👋 Hi, I'm Shashank Valand
+**Data Science Student | AI Enthusiast | Problem Solver**
 
-Data Science Student focused on Natural Language Processing & AI Ethics
------------------------------------------------------------------------
+I specialize in transforming unstructured data into human-centric solutions. My focus lies at the intersection of **Large Language Models (LLMs)** and **Data Engineering**, specifically building systems that make "dark data" accessible and actionable.
 
-Hi, I'm Shashank Valand
+---
 
-Data Science Student | AI Enthusiast | Problem Solver
+### 🚀 Featured Project
+**[DocuMind](https://github.com/Shashankv21)** *Intelligent Document Query System* An end-to-end RAG (Retrieval-Augmented Generation) system built to eliminate information overload. It leverages semantic search and LLMs to provide fact-based answers from complex PDF documents.
 
-I am a Data Science student passionate about transforming complex, unstructured data into meaningful, human-centric solutions. I don't just build models; I build tools that help people navigate information more efficiently.
+---
 
-My journey is driven by a fascination with how Large Language Models (LLMs) can bridge the gap between human language and machine intelligence. I specialize in building systems that make "dark data" (unstructured text and documents) accessible and useful.
+### 🛠️ Technical Stack
+- **Languages & Frameworks:** Python, SQL, FastAPI, Java
+- **AI & Data:** RAG, GraphRAG, Hugging Face, Vector Databases
+- **Cloud & DevOps:** AWS, Google Cloud, Docker, PostgreSQL
+- **Design:** Figma, Bootstrap, CSS3
 
-* 🌍  I'm based in United States
-* ✉️  You can contact me at [shashanksvaland@gmail.com](mailto:shashanksvaland@gmail.com)
-* 🧠  I'm currently learning GraphRAG and Hybrid Search optimization to improve the accuracy of my document intelligence systems when dealing with complex, interconnected data relationships.
+---
 
+### 🌱 Currently Exploring
+* **GraphRAG & Hybrid Search:** Optimizing retrieval accuracy for deeply interconnected data.
+* **AI Ethics:** Researching guardrails for LLM deployment and hallucination reduction.
+
+---
+
+### 📫 Connect with Me
 <p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="Fast API" title="Fast API" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored-dark.svg" alt="MacOS" title="MacOS" width="36" height="36" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="Amazon Web Services" title="Amazon Web Services" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a><a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/huggingface-colored-dark.svg" alt="Hugging Face" title="Hugging Face" width="36" height="36" /></a>
+  <a href="https://www.linkedin.com/in/shashank-valand-725a93204/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:shashanksvaland@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/Shashankv21"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/Shashankv21" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/shashank-valand-725a93204/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Shashankv21"><img src="https://github-readme-stats.vercel.app/api?username=Shashankv21&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="Shashankv21's GitHub stats" /></a>
+### 📊 System Diagnostics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shashankv21&show_icons=true&theme=transparent&hide_border=true&title_color=0891b2&icon_color=0891b2&text_color=555" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashankv21&layout=compact&theme=transparent&hide_border=true&title_color=0891b2&text_color=555" width="38%" />
+</p>

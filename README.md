@@ -32,9 +32,3 @@ I specialize in transforming unstructured data into human-centric solutions. My 
 </p>
 
 ---
-
-### 📊 System Diagnostics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shashankv21&show_icons=true&theme=transparent&hide_border=true&title_color=0891b2&icon_color=0891b2&text_color=555" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashankv21&layout=compact&theme=transparent&hide_border=true&title_color=0891b2&text_color=555" width="38%" />
-</p>

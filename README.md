@@ -6,7 +6,7 @@ I specialize in transforming unstructured data into human-centric solutions. My 
 ---
 
 ### 🚀 Featured Project
-**[Documind](https://github.com/shashankvaland)** *Intelligent Document Query System* An end-to-end RAG (Retrieval-Augmented Generation) system built to eliminate information overload. It leverages semantic search and LLMs to provide fact-based answers from complex PDF documents.
+**[Documind](https://github.com/shashankvaland/Documind)** *Intelligent Document Query System* An end-to-end RAG (Retrieval-Augmented Generation) system built to eliminate information overload. It leverages semantic search and LLMs to provide fact-based answers from complex PDF documents.
 
 ---
 
